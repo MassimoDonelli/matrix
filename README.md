@@ -1,4 +1,4 @@
-matrix is a class that implements a set of operations on matrices. The code is written in python3, and is an alternative to other libraries.
+Matrix is a class that implements a set of operations on matrices. The code is written in python3, and is an alternative to other libraries.
 The reference book is F. Odetti, M. Raimondo, "Elementi di Algebra Lineare," ECIG - ISBN -88-7545-480-9.
 The library implements the following functions:
   
@@ -38,4 +38,4 @@ See LICENSE.txt for more information.
 
 Contact: Massimo Donelli - massimo.donelli@unitn.it 
 
-Project link: 
+Project link: https://github.com/MassimoDonelli/matrix.git
